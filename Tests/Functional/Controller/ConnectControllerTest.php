@@ -31,7 +31,7 @@ use Symfony\Component\HttpFoundation\Session\SessionInterface;
  *
  * @group legacy
  */
-final class ConnectControllerTest extends WebTestCase
+class ConnectControllerTest extends WebTestCase
 {
     protected function setUp(): void
     {

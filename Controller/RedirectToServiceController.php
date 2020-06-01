@@ -22,7 +22,7 @@ use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
 /**
  * @author Alexander <iam.asm89@gmail.com>
  */
-final class RedirectToServiceController
+class RedirectToServiceController
 {
     /**
      * @var OAuthUtils

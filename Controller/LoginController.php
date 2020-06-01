@@ -26,7 +26,7 @@ use Symfony\Component\Security\Http\Authentication\AuthenticationUtils;
 /**
  * @author Alexander <iam.asm89@gmail.com>
  */
-final class LoginController extends AbstractController
+class LoginController extends AbstractController
 {
     /**
      * @var bool

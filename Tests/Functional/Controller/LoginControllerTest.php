@@ -27,7 +27,7 @@ use Symfony\Component\Security\Core\Security;
  *
  * @group legacy
  */
-final class LoginControllerTest extends WebTestCase
+class LoginControllerTest extends WebTestCase
 {
     protected function setUp(): void
     {
